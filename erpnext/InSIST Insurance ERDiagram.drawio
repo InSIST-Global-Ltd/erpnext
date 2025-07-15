@@ -3200,7 +3200,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Motor" id="5ge11itiQx0YKfkmD9_7">
-    <mxGraphModel dx="892" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="892" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="4Tat6fEs_kpaso34VGfc-0" />
         <mxCell id="4Tat6fEs_kpaso34VGfc-1" parent="4Tat6fEs_kpaso34VGfc-0" />
